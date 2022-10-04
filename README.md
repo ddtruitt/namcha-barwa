@@ -1,4 +1,4 @@
-## namcha-barwa
+# namcha-barwa
 Challenge 3
 
 ## User Story
