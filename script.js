@@ -101,8 +101,8 @@ function generatePassword() {
     let i = 0;
     while (i < options.length) {
       i++;
-      getRandom (stewDone);
-    }
+      return getRandom (stewDone);
+    };
 }
 
 // Write password to the #password input
